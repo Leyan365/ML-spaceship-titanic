@@ -5,11 +5,10 @@ __pycache__/
 .env
 .kaggle/
 kaggle.json
-data/raw/
-data/*.zip
 *.ipynb_checkpoints
 .DS_Store
 *.csv
 *.zip
 *.tsv
 *.json
+*.txt"catboost_info/" 
