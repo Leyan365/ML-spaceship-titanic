@@ -1,0 +1,15 @@
+# .gitignore
+.vscode/
+__pycache__/
+*.pyc
+.env
+.kaggle/
+kaggle.json
+data/raw/
+data/*.zip
+*.ipynb_checkpoints
+.DS_Store
+*.csv
+*.zip
+*.tsv
+*.json
