@@ -11,4 +11,7 @@ kaggle.json
 *.zip
 *.tsv
 *.json
-*.txt"catboost_info/" 
+*.txt
+"catboost_info/" 
+"__pycache__/" 
+".ipynb_checkpoints/" 
